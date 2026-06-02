@@ -28,7 +28,7 @@ This project provides a **“Simple Flowchart Drawing Tool 颯(HAYATE)”** that
 * Supports both vertical and horizontal swimlanes
 * Integration with generative AI (OpenAI GPT, Google Gemini, Anthropic Claude) for automatic flowchart generation (with manual editing available afterward)
 
-![Login Authentication Requirements_gpt-5.5](../pictures/Login Authentication Requirements_gpt-5.5.png)
+![Login Authentication Requirements_gpt-5.5](../pictures/Login_Authentication_Requirements_gpt-5.5.png)
 
 * **New Feature (2026.04.07)**: Released VBA for importing flowchart JSON data into Excel and rendering editable flowcharts → significantly reduces Excel diagramming workload
 
