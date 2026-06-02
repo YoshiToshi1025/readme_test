@@ -19,40 +19,28 @@ permalink: /ja/
 - そんな共通の悩みを持つ方々に向けて、「 “気軽に使える” フローチャート作図ツール」を作成しています。
 - フローチャートを「さくっと」描くための基本的な機能がある程度揃ったので、オープンソースとして公開しています。
 
-<div style="text-align: center;">
-<img width="75%" src="../pictures/ログイン認証-gpt-5.5_note追加.png" />
-</div>
+![ログイン認証-gpt-5.5_note追加](../pictures/ログイン認証-gpt-5.5_note追加.png)
 
 ## 本ツールの特徴
 - 簡易フローチャートを短時間で作図、保存、再編集に対応
 - 要素間のリンク接続および要素移動時にリンクを自動配線、手動操作での配線調整も可能
 - 生成AI(OpenAI GPT, Google Gemini, Anthropic Claude)と連携して、フローチャートの自動作成に対応（自動作成後にツール上でフローの手動編集が可能）
 
-<div style="text-align: center;">
-<img width="75%" src="../pictures/ログイン認証_AI生成ロジック.png" />
-</div>
+![ログイン認証_AI生成ロジック](../pictures/ログイン認証_AI生成ロジック.png)
 
 - 縦・横のスイムレーンの作図に対応
 
-<div style="text-align: center;">
-<img width="75%" src="../pictures/商品注文対応フロー.png" />
-</div>
+![商品注文対応フロー](../pictures/商品注文対応フロー.png)
 
-<div style="text-align: center;">
-<img width="75%" src="../pictures/設計作業承認フロー図_ステータス付.png" />
-</div>
+![設計作業承認フロー図_ステータス付](../pictures/設計作業承認フロー図_ステータス付.png)
 
 - **新機能(20206.4.7)** 本ツールで作図したフローチャートデータを読み込んで、Excel上で編集可能なフローチャートを作図するVBAを公開 → Excelでの作図作業を大幅に軽減
 
   - ツールで作図したフローチャート
-<div style="text-align: center;">
-<img width="75%" src="../../example/作図想定フロー.png" />
-</div>
+![作図想定フロー](../pictures/作図想定フロー.png)
 
   - Excel図形に変換した結果
-<div style="text-align: center;">
-<img width="75%" src="../pictures/作図想定フロー_Excelインポート結果.png" />
-</div>
+![作図想定フロー_Excelインポート結果](../pictures/作図想定フロー_Excelインポート結果.png)
 
 ## インストール
 
