@@ -20,7 +20,7 @@ permalink: /ja/
 - フローチャートを「さくっと」描くための基本的な機能がある程度揃ったので、オープンソースとして公開しています。
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/ログイン認証-gpt-5.5_note追加.png" />
+<img width="75%" src="../pictures/ログイン認証-gpt-5.5_note追加.png" />
 </div>
 
 ## 本ツールの特徴
@@ -29,17 +29,17 @@ permalink: /ja/
 - 生成AI(OpenAI GPT, Google Gemini, Anthropic Claude)と連携して、フローチャートの自動作成に対応（自動作成後にツール上でフローの手動編集が可能）
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/ログイン認証_AI生成ロジック.png" />
+<img width="75%" src="../pictures/ログイン認証_AI生成ロジック.png" />
 </div>
 
 - 縦・横のスイムレーンの作図に対応
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/商品注文対応フロー.png" />
+<img width="75%" src="../pictures/商品注文対応フロー.png" />
 </div>
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/設計作業承認フロー図_ステータス付.png" />
+<img width="75%" src="../pictures/設計作業承認フロー図_ステータス付.png" />
 </div>
 
 - **新機能(20206.4.7)** 本ツールで作図したフローチャートデータを読み込んで、Excel上で編集可能なフローチャートを作図するVBAを公開 → Excelでの作図作業を大幅に軽減
@@ -51,7 +51,7 @@ permalink: /ja/
 
   - Excel図形に変換した結果
 <div style="text-align: center;">
-<img width="75%" src="../../example/作図想定フロー_Excelインポート結果.png" />
+<img width="75%" src="../pictures/作図想定フロー_Excelインポート結果.png" />
 </div>
 
 ## インストール

@@ -20,7 +20,7 @@ This project provides a **“Simple Flowchart Drawing Tool 颯(HAYATE)”** that
 * Since the tool now includes a reasonable set of basic features for quickly creating flowcharts, it has been released as open source.
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/AutoGen-Arrange-Excel_en.png" />
+<img width="75%" src="../pictures/AutoGen-Arrange-Excel_en.png" />
 </div>
 
 ## Features
@@ -31,13 +31,13 @@ This project provides a **“Simple Flowchart Drawing Tool 颯(HAYATE)”** that
 * Integration with generative AI (OpenAI GPT, Google Gemini, Anthropic Claude) for automatic flowchart generation (with manual editing available afterward)
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/Login Authentication Requirements_gpt-5.5.png" />
+<img width="75%" src="../pictures/Login Authentication Requirements_gpt-5.5.png" />
 </div>
 
 * **New Feature (2026.04.07)**: Released VBA for importing flowchart JSON data into Excel and rendering editable flowcharts → significantly reduces Excel diagramming workload
 
 <div style="text-align: center;">
-<img width="75%" src="../../example/Login Authentication Requirements_gpt-5.5_to_Excel.png" />
+<img width="75%" src="../pictures/Login Authentication Requirements_gpt-5.5_to_Excel.png" />
 </div>
 
 ## Installation
