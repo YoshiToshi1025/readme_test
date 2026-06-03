@@ -3,8 +3,7 @@ lang: en
 permalink: /en/
 ---
 
-# flowchart-drawing-tool-python
-## Simple Flowchart Drawing Tool, HAYATE
+# Simple Flowchart Drawing Tool, HAYATE
 
 ## Overview
 
